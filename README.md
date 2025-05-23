@@ -74,7 +74,7 @@ It will open the app in the Streamlit browser and let the user upload resume and
 
 ---
 
-## 🌐 Deployment
+## 🌐 Screenshots
 
 This app is deployed on **Streamlit Community Cloud**. To deploy your own version:
 
@@ -84,6 +84,7 @@ This app is deployed on **Streamlit Community Cloud**. To deploy your own versio
 4. Add your `OPENAI_API_KEY` in **Secrets**
 
 ---
+
 ##  Use Cases
 
 1. Screen hundreds of resumes in minutes using AI-powered job fit analysis.
