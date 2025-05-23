@@ -1,7 +1,7 @@
 
 # Resume Screener & Fit Analyzer
 
-[Live App →](https://amnaabbasi03-resume-screener1.streamlit.app)  
+[Live App →](https://resume-screener1.streamlit.app)  
 *A fast, AI-powered tool to evaluate how well a resume matches a job description.*
 
 ---
