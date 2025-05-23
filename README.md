@@ -41,24 +41,35 @@ No more manual reviews. Just upload a resume and paste the job description — a
 
 ## 🚀 Getting Started (Local Development)
 
+### 1. Clone the repository
+
 ```bash
-git clone https://github.com/yourusername/resume-screener.git
-cd resume-screener
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
+```
+
+### 2. Create a `.env` file
+
+Create a file named `.env` in the project root and add the following:
+
+```env
+OPENAI_API_KEY=your-openai-key-here
+```
+
+> 💡 You can refer to `.env.example` for guidance.
+
+### 3. Install dependencies
+
+```bash
 pip install -r requirements.txt
 ```
 
-Create a `.env` file in the root:
-
-```env
-OPENAI_API_KEY=your_openai_api_key
-```
-
-Then run the app:
+### 4. Start the Streamlit app
 
 ```bash
 streamlit run app.py
+```
+It will open the app in the Streamlit browser and let the user upload resume and paste job description in the text box to analyze the fit and generate recommendation. 
 ```
 
 ---
@@ -73,13 +84,17 @@ This app is deployed on **Streamlit Community Cloud**. To deploy your own versio
 4. Add your `OPENAI_API_KEY` in **Secrets**
 
 ---
+##  Use Cases
+
+1. Screen hundreds of resumes in minutes using AI-powered job fit analysis.
+2. Shortlist top candidates instantly with Fit Scores and skill matching.
+3. Compare resumes against job descriptions to identify strengths and gaps.
+4. Speed up hiring for staffing agencies by matching resumes to client needs.
+5. Guide internal candidates by showing how well they fit new roles.
+6. Optimize resumes for ATS by highlighting missing keywords (future feature).
+7. Empower career coaches with AI insights for resume improvement.
+8. Streamline campus recruitment with quick-fit evaluations for student resumes.
 
 ## 🙌 Contributing
 
 Feel free to fork and improve this tool. PRs welcome!
-
----
-
-## 📄 License
-
-MIT License
