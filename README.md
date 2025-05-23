@@ -91,7 +91,7 @@ This app is deployed on **Streamlit Community Cloud**. To deploy your own versio
 
 ---
 
-##  Use Cases
+## 💼 Use Cases
 
 1. Screen hundreds of resumes in minutes using AI-powered job fit analysis.
 2. Shortlist top candidates instantly with Fit Scores and skill matching.
