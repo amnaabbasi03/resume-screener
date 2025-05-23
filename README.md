@@ -1,7 +1,7 @@
 
 # Resume Screener & Fit Analyzer
 
-[Live App →](https://yourusername-resume-screener.streamlit.app)  
+[Live App →](https://amnaabbasi03-resume-screener1.streamlit.app)  
 *A fast, AI-powered tool to evaluate how well a resume matches a job description.*
 
 ---
@@ -29,10 +29,12 @@ No more manual reviews. Just upload a resume and paste the job description — a
 
 ## 📸 Screenshots
 
-![screenshot1](https://via.placeholder.com/800x400?text=Upload+Resume+and+Job+Description)  
+![Input](https://github.com/user-attachments/assets/c568f4ae-5f52-43c6-ad47-1eca98ad3216)
+
 *Input section: Upload a resume & job description*
 
-![screenshot2](https://via.placeholder.com/800x400?text=Fit+Score+and+Recommendations)  
+![Output](https://github.com/user-attachments/assets/d77dcff5-accb-45d7-8287-8913528abbbf)
+
 *Output: Fit Score, Skill Match Summary, and Recommendation*
 
 ---
