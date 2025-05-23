@@ -69,12 +69,18 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-It will open the app in the Streamlit browser and let the user upload resume and paste job description in the text box to analyze the fit and generate recommendation. 
-```
+
+The app will open in your default browser.  
+You can upload a resume and paste the job description in the text box and it will display:
+
+- Fit Score 
+- Matching skills
+- Missing skills 
+- Recommendation  
 
 ---
 
-## 🌐 Screenshots
+## 🌐 Deployment
 
 This app is deployed on **Streamlit Community Cloud**. To deploy your own version:
 
