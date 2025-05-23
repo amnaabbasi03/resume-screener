@@ -6,7 +6,7 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This tool helps recruiters quickly evaluate resumes by:
 
@@ -18,7 +18,7 @@ No more manual reviews. Just upload a resume and paste the job description — a
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend:** Streamlit
 - **Resume Parsing:** PyMuPDF
@@ -27,7 +27,7 @@ No more manual reviews. Just upload a resume and paste the job description — a
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![Input](https://github.com/user-attachments/assets/c568f4ae-5f52-43c6-ad47-1eca98ad3216)
 
@@ -39,7 +39,7 @@ No more manual reviews. Just upload a resume and paste the job description — a
 
 ---
 
-## 🚀 Getting Started (Local Development)
+##  Getting Started (Local Development)
 
 ### 1. Clone the repository
 
@@ -56,7 +56,7 @@ Create a file named `.env` in the project root and add the following:
 OPENAI_API_KEY=your-openai-key-here
 ```
 
-> 💡 You can refer to `.env.example` for guidance.
+>  You can refer to `.env.example` for guidance.
 
 ### 3. Install dependencies
 
@@ -80,7 +80,7 @@ You can upload a resume and paste the job description in the text box and it wil
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 This app is deployed on **Streamlit Community Cloud**. To deploy your own version:
 
@@ -91,7 +91,7 @@ This app is deployed on **Streamlit Community Cloud**. To deploy your own versio
 
 ---
 
-## 💼 Use Cases
+##  Use Cases
 
 1. Screen hundreds of resumes in minutes using AI-powered job fit analysis.
 2. Shortlist top candidates instantly with Fit Scores and skill matching.
